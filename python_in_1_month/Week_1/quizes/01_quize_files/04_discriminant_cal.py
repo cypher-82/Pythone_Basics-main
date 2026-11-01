@@ -10,4 +10,4 @@ c = int(input("Value of c = "))
 
 dis = b**2 - 4*(a*c)
 
-print(f'The Discriminant of Quardatic Equation is : {dis}')
+print(f'The Discriminant of Quardatic Equation is = {dis}')
