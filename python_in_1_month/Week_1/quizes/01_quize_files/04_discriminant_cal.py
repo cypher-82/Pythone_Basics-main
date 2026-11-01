@@ -12,4 +12,4 @@ dis = b**2 - 4*(a*c)
 
 print(f'The Discriminant of Quardatic Equation is = {dis}')
 
-## Hi How are you gys
+## Hi How are you gys and my name is Hammad Butt
